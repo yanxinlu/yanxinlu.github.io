@@ -1,9 +1,9 @@
 ---
-title: "Teaching Assistant experience"
+title: "MATH 257, Linear Algebra"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2024-fall
-venue: "ZJUI, MATH 257, Linear Algebra"
+venue: "ZJUI"
 date: 2024-09-01
 location: "Zhejiang, China"
 ---
