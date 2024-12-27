@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant experience"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Course"
 permalink: /teaching/2024-fall
 venue: "ZJUI, MATH 257, Linear Algebra"
 date: 2024-09-01
