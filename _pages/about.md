@@ -27,11 +27,11 @@ I am interested in developing and optimizing large language models (LLMs) for re
 
 Latest News
 ======
- - [2024-11]: Awarded the Zhejiang Provincial Government Scholarship.
+  * [2024-11]: Awarded the Zhejiang Provincial Government Scholarship.
 
- - [2024-09]: SciCode accepted at NeurIPS 2024 Datasets and Benchmarks Track.
+  * [2024-09]: SciCode accepted at NeurIPS 2024 Datasets and Benchmarks Track.
 
- - [2024-01]: Won the Bronze Award at the 9th China International College Students' "Internet+" Innovation and Entrepreneurship Competition for [ChatScratch](https://yanxinlu.github.io/files/ChatScratch.pdf).
+  * [2024-01]: Won the Bronze Award at the 9th China International College Students' "Internet+" Innovation and Entrepreneurship Competition for [ChatScratch](https://yanxinlu.github.io/files/ChatScratch.pdf).
 
- - [2023-11]: Awarded the Zhejiang Provincial Government Scholarship.
+  * [2023-11]: Awarded the Zhejiang Provincial Government Scholarship.
 
