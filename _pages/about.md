@@ -15,7 +15,7 @@ During the exchange year, I participated in the **SciCode** project under [Prof.
 
 Looking ahead, I am passionate about exploring how large language models can drive innovation in specialized domains. I am actively seeking collaboration opportunities to further refine my expertise and contribute to impactful projects.
 
-Outside of work, my greatest joy comes from spending time with my lovable cat, [Putao]()🍇!
+Outside of work, my greatest joy comes from spending time with my lovable cat, [Putao](https://yanxinlu.github.io/portfolio/)🍇!
 
 Feel free to reach out if you'd like to connect or discuss potential collaborations!
 
