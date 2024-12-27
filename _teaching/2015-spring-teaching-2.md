@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2024-fall
 venue: "ZJUI, MATH 257, Linear Algebra"
-date: 2024 Fall
+date: 2024-09-01
 location: "Zhejiang, China"
 ---
 
