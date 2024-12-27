@@ -12,7 +12,7 @@ title                    : "Amber Lu"
 title_separator          : "-"
 name                     : &name "Amber Lu"
 description              : &description "personal description"
-url                      : https://yanxinlu.github.io/academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://yanxinlu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YanxinLu/yanxinlu.github.io"
 
