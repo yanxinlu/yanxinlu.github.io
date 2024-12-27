@@ -15,19 +15,21 @@ During the exchange year, I participated in the **SciCode** project under [Prof.
 
 Looking ahead, I am passionate about exploring how large language models can drive innovation in specialized domains. I am actively seeking collaboration opportunities to further refine my expertise and contribute to impactful projects.
 
+Outside of work, my greatest joy comes from spending time with my lovable cat, Putao🍇!
+
 Feel free to reach out if you'd like to connect or discuss potential collaborations!
 
-## Research Interest
+# Research Interest
 
 I am interested in developing and optimizing large language models (LLMs) for real-world applications. My goal is to enhance the trustworthiness and robustness of LLMs, improving human-AI collaboration to ensure that LLMs effectively assist across diverse contexts while maintaining their reliability.
 
-## Latest News
+# Latest News
 
-* __[Nov, 2024]__     Awarded the Zhejiang Provincial Government Scholarship.
+* __[Nov, 2024]__  Awarded the Zhejiang Provincial Government Scholarship.
 
-* __[Sep, 2024]__     SciCode accepted at NeurIPS 2024 Datasets and Benchmarks Track.
+* __[Sep, 2024]__  SciCode accepted at NeurIPS 2024 Datasets and Benchmarks Track.
 
-* __[Jan, 2024]__     Won the Bronze Award at the 9th China International College Students' "Internet+" Innovation and Entrepreneurship Competition for [ChatScratch](https://yanxinlu.github.io/files/ChatScratch.pdf).
+* __[Jan, 2024]__  Won the Bronze Award at the 9th China International College Students' "Internet+" Innovation and Entrepreneurship Competition for [ChatScratch](https://yanxinlu.github.io/files/ChatScratch.pdf).
 
-* __[Nov, 2023]__     Awarded the Zhejiang Provincial Government Scholarship.
+* __[Nov, 2023]__  Awarded the Zhejiang Provincial Government Scholarship.
 
