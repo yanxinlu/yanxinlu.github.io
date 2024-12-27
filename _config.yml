@@ -22,10 +22,10 @@ repository               : "YanxinLu/yanxinlu.github.io"
 author:
   # Biographic information
   avatar           : "pho.jpg"
-  name             : "Amber Lu"
+  name             : "Amber Lu(卢艳欣)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Undergrad at ZJUI"
+  location         : "Zhejiang, China"
   employer         : "ZJU-UIUC Joint Institute"
   uri              : # URL
   email            : "yanxinl4@illinois.edu" 
