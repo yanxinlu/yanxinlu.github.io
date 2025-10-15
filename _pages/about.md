@@ -15,7 +15,7 @@ During the exchange year, I participated in the **SciCode** project under [Prof.
 
 Looking ahead, I am passionate about exploring how large language models can drive innovation in specialized domains. I am currently seeking **internship opportunities for Summer 2026** or **full-time positions starting in January 2027**, where I can contribute to impactful, AI-driven projects.
 
-Outside of work, my greatest joy comes from spending time with my lovable cat, [Putao](https://yanxinlu.github.io/portfolio/)🍇!
+Outside of work, my greatest joy comes from spending time with my lovable cat, [Putao](https://yanxinlu.github.io/putao/)🍇!
 
 Feel free to reach out if you'd like to connect or discuss potential collaborations!
 
