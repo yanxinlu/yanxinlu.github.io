@@ -27,7 +27,7 @@ I am interested in developing and optimizing large language models (LLMs) for re
 
 * __[Sep, 2025]__  Began my graduate studies at Caltech.
 
-* __[June, 2025]__ Graduated from ZJU-UIUC with High Honors!
+* __[Jun, 2025]__ Graduated from ZJU-UIUC with High Honors!
   
 * __[Nov, 2024]__  Awarded the Zhejiang Provincial Government Scholarship.
 
